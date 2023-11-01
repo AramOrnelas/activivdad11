@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-07e37c625b88e6bf18f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NEURO",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NEURO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NEURO-Debug-d9131ea96d4166a99ba4.json",
+					"name" : "NEURO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NEURO_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NEURO_autogen-Debug-0245d31394464628460d.json",
+					"name" : "NEURO_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NEURO_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NEURO_autogen_timestamp_deps-Debug-1f4e27ee895a19b2e4ad.json",
+					"name" : "NEURO_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Arame/Documents/build-NEURO-Desktop-Debug",
+		"source" : "C:/Users/Arame/Documents/NEURO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
